@@ -9,7 +9,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f0f0f",
-  "theme_color": "#f7b7d2",
+  "theme_color": "#f7b2d2",
   "icons": [
     {
       "src": "/aura-pink/icons/aura-192.png",
